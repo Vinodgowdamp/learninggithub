@@ -1,0 +1,6 @@
+c:\users\r9lz\documents\visual studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\bin\Debug\LearnCSharp_26052021.exe.config
+C:\Users\r9lz\Documents\Visual Studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\bin\Debug\LearnCSharp_26052021.exe
+C:\Users\r9lz\Documents\Visual Studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\bin\Debug\LearnCSharp_26052021.pdb
+C:\Users\r9lz\Documents\Visual Studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\obj\Debug\LearnCSharp_26052021.csprojResolveAssemblyReference.cache
+C:\Users\r9lz\Documents\Visual Studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\obj\Debug\LearnCSharp_26052021.exe
+C:\Users\r9lz\Documents\Visual Studio 2015\Projects\LearnCSharp_26052021\LearnCSharp_26052021\obj\Debug\LearnCSharp_26052021.pdb
