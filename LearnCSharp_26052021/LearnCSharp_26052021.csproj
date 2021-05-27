@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LearnCSharp_26052021.Basics.AccountDetails</StartupObject>
+    <StartupObject>LearnCSharp_26052021.Basics.ArrayProgram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Basics\AccountDetails.cs" />
+    <Compile Include="Basics\ArrayProgram.cs" />
     <Compile Include="Basics\DemoEmployee.cs" />
     <Compile Include="Basics\Employee.cs" />
     <Compile Include="Basics\LearningBasics.cs" />
