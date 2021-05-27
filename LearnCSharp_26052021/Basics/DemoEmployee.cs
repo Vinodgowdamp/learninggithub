@@ -14,6 +14,7 @@ namespace LearnCSharp_26052021.Basics
             vinod.salary = 100;
             vinod.bouns = 200;
             //Added new line
+            //Added in local
             int vinodsalary = vinod.calculatesalary();
             Console.WriteLine($"vinod's salary is {vinodsalary}");
         }
